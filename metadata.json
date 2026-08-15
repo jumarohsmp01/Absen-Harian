@@ -1,0 +1,6 @@
+{
+  "name": "Absensi SMPN 1 Banjarmasin",
+  "description": "Aplikasi Presensi dan Absensi Online SMP Negeri 1 Banjarmasin dengan integrasi WebView, perizinan lokasi GPS, kamera, dan riwayat presensi lokal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

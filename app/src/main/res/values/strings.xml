@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Absen SMPN 1</string>
+    <string name="school_full_name">SMP Negeri 1 Banjarmasin</string>
+    <string name="school_url">https://smpn1banjarmasin.sch.id/absen/</string>
+</resources>
